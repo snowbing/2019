@@ -1,0 +1,13 @@
+3V3	5v
+/	5v
+/	GND
+trig	TX
+GND	RX
+echo(绿)record
+find	GND
+find	
+3v3
+not_find
+not_find
+/
+GND
