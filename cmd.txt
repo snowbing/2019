@@ -1,6 +1,0 @@
-python facerec ./data/generate ./data/datamap.csv
-sudo python demo3.py resources/snowboy.umdl
-python generate.py ./data
-python create_csv.py ./data/generate/ > ./data/datamap.csv
-
-https://github.com/account/organizations/new 
